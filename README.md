@@ -26,13 +26,13 @@
 
 
 ## 生成视频演示
+<table>
+  <tr>
+    <td><video src="https://github.com/user-attachments/assets/d2af6227-16d1-4160-837b-c75d1a209eaa" control="true"></video></td>
+      <td><video src="https://github.com/user-attachments/assets/eb306893-7f61-43f7-a7bc-76159e076618" control="true"></video></td>
+  </tr>
+</table>
 
-
-https://github.com/user-attachments/assets/d2af6227-16d1-4160-837b-c75d1a209eaa
-
-
-
-https://github.com/user-attachments/assets/eb306893-7f61-43f7-a7bc-76159e076618
 
 ## 运行
 - 显卡非必须，CPU **4核** 或以上，内存 **4GB** 或更高
